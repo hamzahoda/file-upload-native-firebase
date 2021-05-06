@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170441409793",
+    "firebase_url": "https://assignment4-a5bc4.firebaseio.com",
+    "project_id": "assignment4-a5bc4",
+    "storage_bucket": "assignment4-a5bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170441409793:android:a836ba8d4a2a7992740700",
+        "android_client_info": {
+          "package_name": "com.fileuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170441409793-j5l00601bmktptp508g5obdsp2nj7phr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAevZp1PyzEyvzX3YVu_zpUPn6XE7dpwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170441409793-j5l00601bmktptp508g5obdsp2nj7phr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
